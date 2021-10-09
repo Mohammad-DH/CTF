@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="853.366" height="502.839" viewBox="0 0 853.366 502.839">
+  <defs>
+    <filter id="CTF" x="77.524" y="10.396" width="707" height="398" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="ctf-2" data-name="ctf" transform="translate(-292.976 -218.104)">
+    <path id="Path_3" data-name="Path 3" d="M1112.958,402.39,1008.635,579.74,779.123,638.161l-10.432,98.064-308.8-79.286L449.461,508.8,292.976,429.514,551.7,306.412,674.8,289.72l189.869,16.692,79.286,75.113Z" transform="translate(0 -25.714)" fill="#bf8eff" opacity="0.6"/>
+    <path id="Path_1" data-name="Path 1" d="M358.081,369.083,518.74,237.636l239.944,70.94,164.831-58.421,246.2,267.068L904.737,727.956,554.21,567.3,358.081,542.26Z" transform="translate(-23.376 -7.013)" fill="#aafffc" opacity="0.6"/>
+    <path id="Path_2" data-name="Path 2" d="M619.126,645.83l434.744-175.867-109.255-128.1L919.578,218.1,657.821,311.466l-355.079-30.4,159.33,308.31Z" transform="translate(-3.506 0)" fill="#fbaff8" opacity="0.6"/>
+    <g transform="matrix(1, 0, 0, 1, 292.98, 218.1)" filter="url(#CTF)">
+      <text id="CTF-3" data-name="CTF" transform="translate(78.02 310.9)" fill="#fff" font-size="384" font-family="AunchantedXspace"><tspan x="0" y="0">CTF</tspan></text>
+    </g>
+  </g>
+</svg>
